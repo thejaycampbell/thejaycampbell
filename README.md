@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hey, I'm Jay Campbell.
 
-<!--
-**thejaycampbell/thejaycampbell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build AI-powered revenue tools and sell enterprise software. CS degree. Former region GM. Current builder.
 
-Here are some ideas to get you started:
+**What I'm shipping:**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [Get a FN Job](https://getafnjob.com) - AI job search platform that writes resumes, scores fit, and generates outreach
+- [DealIQ OS](https://dealiqos.com) - MEDDPICC enforcement engine for Salesforce and HubSpot
+- [Selling with AI](https://sellingwithai.vip) - Weekly newsletter for sales pros who actually use AI to close deals
+
+**Stack:** React, Node.js, Supabase, Vercel, OpenAI
+
+[thejaycampbell.com](https://thejaycampbell.com)
