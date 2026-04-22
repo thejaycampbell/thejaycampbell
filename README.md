@@ -9,7 +9,7 @@ i build AI-powered revenue tools and sell enterprise software. CS degree.
 - **[Mason](https://github.com/thejaycampbell/mason)** — website creation agent. brief it, it builds it. zero to deployed in one conversation.
 - **[Blair](https://github.com/thejaycampbell/blair)** — ai cmo agent for any brand. strategy, campaigns, content, and copy. one conversation, full output.
 - **[getaFNjob](https://getafnjob.com)** — ai career tool that scores role fit and builds targeted outreach. because spray-and-pray doesn't work in 2026.
-- **[DealIQ](https://dealiqos.com)** — meddpicc-native crm with deal coaching built in. built it because nothing else enforced the methodology i actually use.
+- **[DealIQ OS](https://dealiqos.com)** — meddpicc-native crm with deal coaching built in. built it because nothing else enforced the methodology i actually use.
 - **[Selling with AI](https://sellingwithai.vip)** — weekly newsletter. practical ai for enterprise sales reps, not theory.
 
 **stack:** python · typescript · next.js · react · supabase · anthropic · openai · n8n · vercel
