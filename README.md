@@ -16,9 +16,9 @@ i sold enterprise software for a career... then i started building the software.
 
 **open source:**
 
-- **[Cadence](...)**: personal ai os skeleton built for anyone. tons of skills built in. the easiest way to start building your own ai chief of staff.
-- **[Mason](...)**: website creation agent. brief it, it builds it. zero to deployed in one conversation.
-- **[Blair](...)**: ai cmo agent for any brand. strategy, campaigns, content, and copy. one conversation, full output.
+- **[Cadence](https://github.com/thejaycampbell/Cadence)**: personal ai os skeleton built for anyone. tons of skills built in. the easiest way to start building your own ai chief of staff.
+- **[Mason](https://github.com/thejaycampbell/mason)**: website creation agent. brief it, it builds it. zero to deployed in one conversation.
+- **[Blair](https://github.com/thejaycampbell/blair)**: ai cmo agent for any brand. strategy, campaigns, content, and copy. one conversation, full output.
 - **[chase](https://github.com/thejaycampbell/chase)**: self-hosted reddit signal monitor. finds posts worth engaging with and delivers them daily.
 
 **previous builds (retired):** getaFNjob · DealIQ OS · CleanPipe · StaffingSalesOps
