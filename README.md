@@ -12,7 +12,7 @@ i sold enterprise software for a career... then i started building the software.
 
 **building now:**
 
-- **Capture**: one keyboard shortcut for screen recording, screenshots, dictation and meeting notes. replaces loom, snagit, whisper flow and otter. windows and mac.
+- **Capture**: one keyboard shortcut for screen recording, screenshots, dictation and meeting notes. replaces loom, snagit, and whispr flow. windows and mac.
 
 **open source:**
 
